@@ -1,0 +1,32 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family:'Outfit', sans-serif;
+    font-size: 15px;
+}
+
+.Box{
+    background-color: hsl(0, 0%, 100%);
+    margin: 70px auto;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+}
+
+img{
+    border-radius: 10px;
+    background-size: cover;
+    width: 100%;
+}
+
+h1{
+   color: hsl(218, 44%, 22%);
+   font-size: 23px;
+   padding-top: 10px;
+   font-weight: bolder;
+}
+
+p{
+   color: hsl(220, 15%, 55%);
+   font-size: 15px;
+}
